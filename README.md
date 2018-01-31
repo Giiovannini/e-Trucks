@@ -27,7 +27,7 @@ Screenshots
 For more screenshots check [this page.](https://github.com/Giiovannini/e-Trucks/tree/master/screenshots)
 
 
-Requiriments
+Requirements
 =====
 
 Android 4.1 Jelly Bean or higher.
